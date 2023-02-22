@@ -37,7 +37,7 @@ All integers in s are between 1 and 300.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -52,7 +52,7 @@ d occurs once, so, we add d to res.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 import java.io.*;

@@ -38,7 +38,7 @@ All the lower case alphabets got converted into upper case and vice versa.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.io.*;
 

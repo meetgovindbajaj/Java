@@ -50,7 +50,7 @@ First we push 2 , then for second query we push 3, for third query we pop 3 and 
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -36,7 +36,7 @@ This is the largest number possible
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

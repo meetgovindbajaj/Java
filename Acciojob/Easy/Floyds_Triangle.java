@@ -37,7 +37,7 @@ The input number of rows is 5, so program printed 5 row triangle with consecutiv
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

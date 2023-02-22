@@ -51,7 +51,7 @@ To move three disks from rod 1 to rod 3, the steps mentioned in the output are r
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

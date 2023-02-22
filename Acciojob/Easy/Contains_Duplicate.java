@@ -20,7 +20,7 @@ constraints:
 0 <= arr[i] <= 100000
 
 */
-package Gym.Easy;
+
 
 import java.util.*;
 

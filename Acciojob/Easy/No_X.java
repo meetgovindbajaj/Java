@@ -31,7 +31,7 @@ Remove the x at the start and the end.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

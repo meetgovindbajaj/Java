@@ -39,7 +39,7 @@ We separate each word and print them in a new line.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

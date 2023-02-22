@@ -31,7 +31,7 @@ none
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -51,7 +51,7 @@ For ‘i’ = ‘3’ 'NUMARRAY[3]' = 5 which is not equal to index ‘i’, So 
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

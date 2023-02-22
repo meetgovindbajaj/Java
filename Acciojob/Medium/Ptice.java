@@ -51,7 +51,7 @@ Here all 3 have 4 correct answers.
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

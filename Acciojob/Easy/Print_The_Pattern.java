@@ -35,7 +35,7 @@ The number of rows given is 5.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

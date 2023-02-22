@@ -31,7 +31,7 @@ Print a string, either "N is a prime number" or "N is not a prime number" (witho
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.io.*;
 import java.util.*;

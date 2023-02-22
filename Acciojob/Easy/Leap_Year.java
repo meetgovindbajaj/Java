@@ -35,7 +35,7 @@ Return 1, if the given year is a leap year or 0 otherwise.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -40,7 +40,7 @@ None
 @end--------------------------------------------
 */
 
-package Gym.Hard;
+
 
 import java.util.*;
 

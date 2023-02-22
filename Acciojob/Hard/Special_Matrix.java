@@ -47,7 +47,7 @@ The diagonal elements are non-zero and non-diagonal elements are zero.
 @end--------------------------------------------
 */
 
-package Gym.Hard;
+
 
 import java.util.*;
 

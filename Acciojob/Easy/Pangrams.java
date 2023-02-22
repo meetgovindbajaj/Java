@@ -33,7 +33,7 @@ Each character of s, s[i]∈{a-z,A-Z,space}
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

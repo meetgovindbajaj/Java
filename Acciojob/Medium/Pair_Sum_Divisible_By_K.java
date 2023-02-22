@@ -15,7 +15,7 @@ output: 2
 
 explained: Here , 2 pairs are possible whose sum is divisible by 3 i.e (1 3) and (3 5) are the required pairs
 */
-package Gym.Medium;
+
 
 import java.util.*;
 

@@ -46,7 +46,7 @@ Subtract the two numbers and print the array
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

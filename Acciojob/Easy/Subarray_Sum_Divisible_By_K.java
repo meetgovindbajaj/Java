@@ -56,7 +56,7 @@ There are 7 subarrays with a sum divisible by k = 5:
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

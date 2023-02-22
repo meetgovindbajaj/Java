@@ -39,7 +39,7 @@ Sum of 6+(-4) is equal to Sum of 3+2+(-3)
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

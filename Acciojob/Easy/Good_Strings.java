@@ -53,7 +53,7 @@ Only 'ab' and 'cacb' are good strings. Rest of the strings contain characters ap
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 import java.util.regex.Pattern;

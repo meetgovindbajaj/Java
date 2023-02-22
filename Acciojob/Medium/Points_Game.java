@@ -44,7 +44,7 @@ the last one.
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

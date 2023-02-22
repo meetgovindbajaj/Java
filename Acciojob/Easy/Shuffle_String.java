@@ -43,7 +43,7 @@ As the problem states "acciojob" becomes "oojbacci" after shuffling.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

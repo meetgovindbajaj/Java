@@ -37,7 +37,7 @@ Row 2 contains minimum element 5 that is largest in the 2nd column.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

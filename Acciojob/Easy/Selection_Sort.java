@@ -36,7 +36,7 @@ The array after performing Selection sort: 1 3 4 7 9.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

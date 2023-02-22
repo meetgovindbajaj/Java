@@ -40,7 +40,7 @@ After reversing 1 3 5 7, we will get 7 5 3 1
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

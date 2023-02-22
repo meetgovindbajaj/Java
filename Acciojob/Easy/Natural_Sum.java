@@ -35,7 +35,7 @@ Here, sum is 55 i.e. 1+2+3+4+....+9+10 = 55.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -34,7 +34,7 @@ The subarray {3 4 5 9}, {4 5 9 12}, {7 20 22 31} and {20 22 31 38} are of size 4
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

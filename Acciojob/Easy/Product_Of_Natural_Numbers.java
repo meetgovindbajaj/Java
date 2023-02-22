@@ -31,7 +31,7 @@ Print the product of all the Natural numbers between N and 1 (both included).
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

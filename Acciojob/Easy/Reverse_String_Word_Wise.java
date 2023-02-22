@@ -40,7 +40,7 @@ We reverse the order of appearence.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.io.*;
 

@@ -38,7 +38,7 @@ The height of Gian goes as- 4 6 8 10. . height of Suneo goes as:- 2 6 10.. at th
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

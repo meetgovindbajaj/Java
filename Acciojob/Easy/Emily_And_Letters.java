@@ -39,7 +39,7 @@ The string will only contain lowercase English letters.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

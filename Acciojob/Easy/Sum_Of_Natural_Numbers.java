@@ -21,7 +21,7 @@ Here, n = 5, so 1 + 2 + 3 + 4 + 5 = 15
 constraints:
 1 <= N < = 10^8
 */
-package Gym.Easy;
+
 
 import java.util.*;
 

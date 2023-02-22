@@ -40,7 +40,7 @@ Print the product.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

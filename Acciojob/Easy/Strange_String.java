@@ -44,7 +44,7 @@ third character 'c', is inserted in the beginning which makes our string 'cab', 
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

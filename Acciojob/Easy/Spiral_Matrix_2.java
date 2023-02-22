@@ -44,7 +44,7 @@ We iterate spirally and print each element.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

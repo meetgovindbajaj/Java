@@ -38,7 +38,7 @@ Printed sorted array.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

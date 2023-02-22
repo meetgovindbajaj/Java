@@ -44,7 +44,7 @@ matrix[i][j] is 0, 1
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

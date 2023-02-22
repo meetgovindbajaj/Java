@@ -37,7 +37,7 @@ Print the answer.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

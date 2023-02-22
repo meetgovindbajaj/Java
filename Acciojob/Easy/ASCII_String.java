@@ -38,7 +38,7 @@ a1b3e-2c1d
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

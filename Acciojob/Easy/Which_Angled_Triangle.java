@@ -41,7 +41,7 @@ Since 2x5x5 is equal to 5x5 + 3x3 + 4x4, So this is a right-angled triangle and 
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

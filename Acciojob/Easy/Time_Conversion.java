@@ -38,7 +38,7 @@ s.length() == 10
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

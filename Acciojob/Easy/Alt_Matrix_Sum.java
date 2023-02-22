@@ -43,7 +43,7 @@ White squares contain 2, 4, 6, 8: sum = 20
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

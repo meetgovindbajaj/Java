@@ -48,7 +48,7 @@ and the last-diagonal is [[7]]
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

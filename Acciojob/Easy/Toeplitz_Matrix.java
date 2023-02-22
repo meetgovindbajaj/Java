@@ -44,7 +44,7 @@ n == matrix[i].length
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -47,7 +47,7 @@ Each string consist of lowercase english letter only.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 import java.util.regex.Pattern;

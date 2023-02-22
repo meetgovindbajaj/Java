@@ -42,7 +42,7 @@ We remove the underscores and convert the next character to uppercase.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -33,7 +33,7 @@ Here, a occurs 1 time, c occurs 1 time, and b occurs 3 times. Hence our answer f
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

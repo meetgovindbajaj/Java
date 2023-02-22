@@ -48,7 +48,7 @@ The difference amount will always be an integer.
 
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

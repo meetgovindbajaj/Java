@@ -49,7 +49,7 @@ You might notice, first line has 5 spaces (n-1) followed by 1 # and the last lin
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -63,7 +63,7 @@ You can not do any operations.
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

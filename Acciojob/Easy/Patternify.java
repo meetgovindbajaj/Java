@@ -39,7 +39,7 @@ Number of stars are reduced from 5 in each line.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -34,7 +34,7 @@ We print the 3 stars in horizontal and 3 stars vertical direction.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

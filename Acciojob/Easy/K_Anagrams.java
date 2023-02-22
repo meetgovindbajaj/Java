@@ -42,7 +42,7 @@ Can change fd to gk
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

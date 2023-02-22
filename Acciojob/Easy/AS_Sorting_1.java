@@ -42,7 +42,7 @@ The matrix is sorted column wise
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

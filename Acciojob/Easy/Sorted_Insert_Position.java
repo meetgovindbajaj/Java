@@ -45,7 +45,7 @@ Print the index where the element is present. If it's not present, print the ind
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

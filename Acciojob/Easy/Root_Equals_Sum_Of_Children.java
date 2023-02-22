@@ -40,7 +40,7 @@ The tree consists only of the root, its left child, and its right child.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

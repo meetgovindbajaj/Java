@@ -46,7 +46,7 @@ All the unique combinations of size 2 are given.
 @end--------------------------------------------
 */
 
-package Gym.Hard;
+
 
 import java.util.*;
 

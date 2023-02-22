@@ -46,7 +46,7 @@ Number of stars in each column represent the value of that index of array arr
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

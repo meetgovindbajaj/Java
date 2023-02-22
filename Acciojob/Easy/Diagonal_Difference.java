@@ -44,7 +44,7 @@ Note: |x| is the absolute value of x (|x| is always non negative for all x)
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

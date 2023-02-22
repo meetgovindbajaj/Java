@@ -53,7 +53,7 @@ A[2] = 2. A[4] = 4. 2 + 4 = 6.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.io.*;
 import java.util.*;

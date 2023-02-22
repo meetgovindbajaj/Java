@@ -45,7 +45,7 @@ N is odd.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

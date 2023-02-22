@@ -54,7 +54,7 @@ constraints:
 
 0<=A[i]<=10^6
 */
-package Gym.Easy;
+
 
 import java.util.*;
 

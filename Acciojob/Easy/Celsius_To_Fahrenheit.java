@@ -21,7 +21,7 @@ explained:
 constraints:
 -1000 <= C <= 1000
 */
-package Gym.Easy;
+
 
 import java.util.*;
 

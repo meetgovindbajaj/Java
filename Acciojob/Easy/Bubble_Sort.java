@@ -41,7 +41,7 @@ Output N integers of the sorted array separated by a space in a single line
 
 @end--------------------------------------------
 */
-package Gym.Easy;
+
 
 import java.util.*;
 

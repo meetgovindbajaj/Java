@@ -45,7 +45,7 @@ None
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

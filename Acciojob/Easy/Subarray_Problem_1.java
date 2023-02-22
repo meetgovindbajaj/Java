@@ -33,7 +33,7 @@ The sum of elements at indices 0, 1,2 add upto 6
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

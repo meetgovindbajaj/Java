@@ -33,7 +33,7 @@ It is a palindrome.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

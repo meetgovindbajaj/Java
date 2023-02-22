@@ -43,7 +43,7 @@ Print the integer value i.e. first index of occurence of the element.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

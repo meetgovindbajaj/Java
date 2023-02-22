@@ -38,7 +38,7 @@ The first integer is 1321 which is separated from 3213 by ','. 3213 is separated
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.io.*;
 import java.util.*;

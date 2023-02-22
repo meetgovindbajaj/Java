@@ -38,7 +38,7 @@ Backwards it reads 1, 2, 3, 2 1 which is the same.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

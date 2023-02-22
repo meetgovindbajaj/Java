@@ -36,7 +36,7 @@ These are the possible non-empty substrings.
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

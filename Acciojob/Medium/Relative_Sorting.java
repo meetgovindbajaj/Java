@@ -41,7 +41,7 @@ arr1 is sorted according to arr2 elements, hence 2 comes before 1, 1 before 8 an
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

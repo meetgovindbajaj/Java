@@ -35,7 +35,7 @@ S[i] is always a lowercase character.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

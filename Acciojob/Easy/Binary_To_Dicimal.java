@@ -42,7 +42,7 @@ Print decimal representation of each string in different line
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

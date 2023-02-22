@@ -31,7 +31,7 @@ Output is a single line containing factorial(n).
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.math.BigInteger;
 import java.util.*;

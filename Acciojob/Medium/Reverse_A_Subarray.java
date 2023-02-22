@@ -38,7 +38,7 @@ By reversing the subarray {5, 4, 3}, the array will be sorted.
 @end--------------------------------------------
 */
 
-package Gym.Medium;
+
 
 import java.util.*;
 

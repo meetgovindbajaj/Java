@@ -36,7 +36,7 @@ The sixth integer was an odd number.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

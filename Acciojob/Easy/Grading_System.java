@@ -43,7 +43,7 @@ constraints:
 
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -39,7 +39,7 @@ n is odd
 
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

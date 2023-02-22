@@ -47,7 +47,7 @@ Print the count of the total ways of selecting three points
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

@@ -33,7 +33,7 @@ Since n = 3, 3 lines with increasing number of stars are printed.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 
