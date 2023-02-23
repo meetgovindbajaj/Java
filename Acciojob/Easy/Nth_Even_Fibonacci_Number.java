@@ -10,7 +10,7 @@ Note:
 
 Since the answer could be very large, use long datatype in JAVA to store the answer. Similarly, use long long in C++.
 
-Return the answer in modulo 109 + 7
+Return the answer in modulo 10^9 + 7
 
 
 @param Input-Format
