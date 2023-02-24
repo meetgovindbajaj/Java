@@ -42,7 +42,7 @@ Expected Space Complexity: O(N)
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

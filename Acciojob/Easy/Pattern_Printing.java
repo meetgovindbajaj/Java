@@ -52,7 +52,7 @@ The required pattern is printed.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

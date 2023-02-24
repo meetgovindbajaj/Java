@@ -37,7 +37,7 @@ Given X = 9 and N = 3. So, 9 ^ 3 = 729. As 9 * 9 * 9 = 729.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

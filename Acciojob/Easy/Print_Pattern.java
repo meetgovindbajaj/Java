@@ -38,7 +38,7 @@ The pattern is of pyramid with first line consisting of one 1, it goes on the sa
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

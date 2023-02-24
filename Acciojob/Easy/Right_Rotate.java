@@ -35,8 +35,6 @@ After first right rotation the array becomes [5, 1, 2, 3, 4] and after '2' rotat
 @end--------------------------------------------
 */
 
-package Gym.Easy;
-
 import java.util.*;
 
 public class Right_Rotate {

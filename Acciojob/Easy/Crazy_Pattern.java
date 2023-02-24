@@ -43,7 +43,7 @@ We are required to create a pattern consisting of 3 lines. First-line contains â
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

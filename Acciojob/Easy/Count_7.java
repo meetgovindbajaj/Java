@@ -31,7 +31,7 @@ There are 3 occurrences of the digit 7 in the number.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

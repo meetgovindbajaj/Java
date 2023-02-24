@@ -40,7 +40,7 @@ Print all the elements that appear twice in a sorted manner
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 

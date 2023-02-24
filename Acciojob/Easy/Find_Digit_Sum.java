@@ -31,7 +31,7 @@ Here the sum is 1+2+5+6 = 14.
 @end--------------------------------------------
 */
 
-package Gym.Easy;
+
 
 import java.util.*;
 
